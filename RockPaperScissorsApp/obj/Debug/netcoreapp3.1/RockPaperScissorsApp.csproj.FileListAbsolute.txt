@@ -1,0 +1,14 @@
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.1\RockPaperScissorsApp.exe
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.1\RockPaperScissorsApp.deps.json
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.1\RockPaperScissorsApp.runtimeconfig.json
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.1\RockPaperScissorsApp.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.1\RockPaperScissorsApp.dll
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\netcoreapp3.1\RockPaperScissorsApp.pdb
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.dll
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.pdb
+C:\Users\ewalter\source\repos\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\netcoreapp3.1\RockPaperScissorsApp.genruntimeconfig.cache
